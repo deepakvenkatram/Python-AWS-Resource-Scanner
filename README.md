@@ -57,7 +57,7 @@ During configuration, you'll be prompted to input the below details, so keep it 
 2. Ensure your AWS CLI is configured with the appropriate IAM permissions (read-only is sufficient).
 3. Run the script, using the below command
 
-python3 aws_audit.py
+python3.10 aws_audit.py
 
 4. The output CSV file (e.g., `aws_resource_audit_report.csv`) will be generated in your working directory.
 
