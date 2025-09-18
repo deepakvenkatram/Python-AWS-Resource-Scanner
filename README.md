@@ -1,4 +1,6 @@
 <img alt="gitleaks badge" src="https://img.shields.io/badge/protected%20by-gitleaks-blue">
+[![Security Policy](https://img.shields.io/badge/Security-Policy-blue.svg)](../../security/policy)
+
 # 🛠️ AWS Resource Scanner
 
 Overview
